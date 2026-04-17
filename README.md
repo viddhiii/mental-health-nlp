@@ -14,7 +14,7 @@ patterns in text. Built with Python, scikit-learn, and Streamlit.
 - Dataset: 51,000+ mental health posts from Kaggle
 
 ## Live demo
-Coming soon
+https://mental-health-nlp-6pqv94er58frzwc562jt2d.streamlit.app/
 
 ## Model performance
 - Baseline accuracy: 76.12%
