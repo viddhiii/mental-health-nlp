@@ -15,12 +15,11 @@ st.set_page_config(
 # Load models
 @st.cache_resource
 def load_models():
-    BASE = "/kaggle/input/notebooks/vidhi0405/mental-health-nlp-data-collection"
-    with open(f"{BASE}/tfidf_vectorizer.pkl", "rb") as f:
+    with open("tfidf_vectorizer.pkl", "rb") as f:
         tfidf = pickle.load(f)
-    with open(f"{BASE}/lr_model.pkl", "rb") as f:
+    with open("lr_model.pkl", "rb") as f:
         lr = pickle.load(f)
-    with open(f"{BASE}/label_encoder.pkl", "rb") as f:
+    with open("label_encoder.pkl", "rb") as f:
         le = pickle.load(f)
     return tfidf, lr, le
 
