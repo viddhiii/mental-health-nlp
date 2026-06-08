@@ -19,3 +19,6 @@ https://mental-health-nlp-6pqv94er58frzwc562jt2d.streamlit.app/
 ## Model performance
 - Baseline accuracy: 76.12%
 - BERT fine-tuning: in progress
+
+## Built by
+Vidhi Prajapati — Data Analytics Project
