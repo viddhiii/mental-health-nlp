@@ -21,4 +21,4 @@ https://mental-health-nlp-6pqv94er58frzwc562jt2d.streamlit.app/
 - BERT fine-tuning: in progress
 
 ## Built by
-Vidhi Prajapati — Data Analytics Project
+Vidhi Prajapati - Data Analytics Project
